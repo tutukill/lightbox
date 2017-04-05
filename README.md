@@ -2,7 +2,7 @@
 启动命令
 var lightbox = new LightBox()
 
-<img
+> <img
 class="js-lightbox" //启动组建
 data-role="lightbox" //启动组建
 data-source="" //原图地址
